@@ -9,6 +9,6 @@ import { RouterLink } from '@angular/router';
   styleUrl: './allcar.component.scss'
 })
 export class AllcarComponent {
-  carType =[1,2,3,4,5,6,7,8]
+  carType =[1,2,3,4,5,6,7,8,8]
 
 }
